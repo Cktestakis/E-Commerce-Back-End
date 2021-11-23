@@ -23,7 +23,7 @@
 
 🔍 A mysql database and application backend for an e-commerce site. Built using MySQL2, Express, Sequelize and dotenv.
 
-💻 Below is the gif showing the functionality of the application:
+💻 Below is the links to the Demos showing the functionality of the application:
 
 ![DB Setup and Start](https://watch.screencastify.com/v/RmC4LozGkpS6pPR6SeC9)
 
